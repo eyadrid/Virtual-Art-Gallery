@@ -137,7 +137,8 @@ canvas {
 }
 
 #menu #content {
-  padding: 3em;
+  padding: 1em;
+  margin-bottom: 20px;
 }
 
 #menu #content p {
@@ -226,8 +227,8 @@ canvas {
   border-radius: 10px;
   font-family: "Arial", sans-serif;
   color: #fff;
-  width: 300px;
-  height: 150px;
+  width: 30em;
+  height: max-content;
   z-index: 1;
   transition: all 0.3s ease-in-out;
   transform: translateY(100px);
@@ -247,15 +248,16 @@ canvas {
 }
 
 #painting-info p {
-  margin: 0;
-  font-size: 1.2em;
+  margin: 8px;
+  font-size: 1.5em;
 }
+
 
 #info-panel {
   position: fixed;
   bottom: 10px;
   left: 10px;
-  width: 200px;
+  width: 250px;
   background-color: rgba(35, 35, 190, 0.8);
   border-radius: 10px;
   padding: 10px;
@@ -369,10 +371,11 @@ mark {
 }
 
 #audio_controls {
-  position: fixed;
   top: 10px;
   left: 10px;
-  z-index: 2; /* To make sure it shows up on top of other elements */
+  z-index: 2;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 #audio_controls button {

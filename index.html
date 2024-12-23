@@ -6,6 +6,10 @@
     <title>3D Art Gallery</title>
 
     <link rel="stylesheet" href="./style.css" />
+    <link
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap"
+    rel="stylesheet"
+    />
   </head>
 
   <body>
@@ -80,17 +84,21 @@
         <p><b>G:</b> Start audio guide</p>
         <p><b>P:</b> Stop audio guide</p>
       </div>
+      <div id="audio_controls">
+        <button id="start_audio"><span class="material-symbols-outlined">
+          music_note
+          </span></button>
+        <button id="stop_audio"><span class="material-symbols-outlined">music_off</span></button>
+      </div>
     </div>
 
-    <div id="audio_controls">
-      <button id="start_audio">Start Audio Guide</button>
-      <button id="stop_audio">Stop Audio Guide</button>
-    </div>
+    
 
     <div id="painting-info">
     </div>
 
-
+    
     <script type="module" src="/main.js"></script>
+    
   </body>
 </html>

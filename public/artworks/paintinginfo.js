@@ -1,117 +1,117 @@
 const paintingInfo = [
-    {
-      
-      title: "Starry Night",
-      artist: "Vincent van Gogh",
-      description: "A swirling masterpiece capturing the night sky with vivid emotion.",
-      year: 1889
-    },
-    {
-      
-      title: "Sunflowers",
-      artist: "Vincent van Gogh",
-      description: "A vibrant depiction of sunflowers symbolizing hope and warmth.",
-      year: 1888
-    },
-    {
-      
-      title: "The Bedroom",
-      artist: "Vincent van Gogh",
-      description: "A cozy yet melancholic view of van Gogh's own bedroom.",
-      year: 1889
-    },
-    {
-      
-      title: "Wheatfield with Crows",
-      artist: "Vincent van Gogh",
-      description: "An ominous yet striking portrayal of a wheat field under a stormy sky.",
-      year: 1890
-    },
-    {
-      
-      title: "Mona Lisa",
-      artist: "Leonardo da Vinci",
-      description: "A timeless portrait known for its enigmatic expression.",
-      year: 1503
-    },
-    {
-      
-      title: "The Last Supper",
-      artist: "Leonardo da Vinci",
-      description: "A depiction of Jesus and his disciples during the Last Supper.",
-      year: 1498
-    },
-    {
-      
-      title: "The Persistence of Memory",
-      artist: "Salvador Dalí",
-      description: "A surreal masterpiece featuring melting clocks in a dreamlike landscape.",
-      year: 1931
-    },
-    {
-      
-      title: "Girl with a Pearl Earring",
-      artist: "Johannes Vermeer",
-      description: "A captivating portrait showcasing the beauty of simplicity.",
-      year: 1665
-    },
-    {
-      
-      title: "The Scream",
-      artist: "Edvard Munch",
-      description: "An iconic expression of existential angst and modern anxiety.",
-      year: 1893
-    },
-    {
-      
-      title: "The Birth of Venus",
-      artist: "Sandro Botticelli",
-      description: "A mesmerizing depiction of Venus rising from the sea.",
-      year: 1486
-    },
-    {
-      
-      title: "Guernica",
-      artist: "Pablo Picasso",
-      description: "A powerful anti-war mural reflecting the horrors of the Spanish Civil War.",
-      year: 1937
-    },
-    {
-      
-      title: "The Night Watch",
-      artist: "Rembrandt van Rijn",
-      description: "A dramatic group portrait showcasing Rembrandt's mastery of light and shadow.",
-      year: 1642
-    },
-    {
-      
-      title: "The Kiss",
-      artist: "Gustav Klimt",
-      description: "A celebration of love and intimacy with a golden, mosaic-like design.",
-      year: 1908
-    },
-    {
-      
-      title: "American Gothic",
-      artist: "Grant Wood",
-      description: "An iconic portrayal of rural American life.",
-      year: 1930
-    },
-    {
-      
-      title: "Water Lilies",
-      artist: "Claude Monet",
-      description: "A serene depiction of Monet's water garden in Giverny.",
-      year: 1920
-    },
-    {
-      
-      title: "The Creation of Adam",
-      artist: "Michelangelo",
-      description: "A legendary fresco from the Sistine Chapel depicting the birth of man.",
-      year: 1512
-    }
-  ];
-  
-  export default paintingInfo;
-  
+  {
+    title: "Mosaic of a charioteer victorious over Dougga",
+    artist: "From Ancient Rome Culture",
+    description: "The mosaic depicts a youthful charioteer holding a whip and palm, wearing a tunic and helmet, with two luxuriously harnessed horses, set against circus gates and a tetrastyle building, with the inscription Eros omnia per te and surrounded by ivy and vine leaves.",
+    year: 	"IVe siècle",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_d%27aurige_vainqueur_de_Dougga#"
+  },
+  {
+    title: "Mosaic of the Ecclesia Mater",
+    artist: "From Ancient Rome Culture",
+    description: "The mosaic symbolizes the mother Church that welcomes the deceased 11 . The mosaicist, following the conventions of late Antiquity , offers a perfect example of the flattened figuration and the synthetic representation of a building" ,
+    year: "IVe siècle ou Ve siècle",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_de_l%27Ecclesia_Mater#"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From A ncient Rome Culture",
+    description: "This 3rd century Roman mosaic, discovered in Dougga, depicts the passage from the Odyssey, where Ulysses, the hero, has his companions tie him to the mast of his ship so as not to succumb to the song of the sirens.",
+    year:"Not mentionned ",
+    link: "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+  {
+    title: "Mosaic of the Triumph of Neptune and the Four Seasons of La Chebba",
+    artist: "From Ancient Rome Culture",
+    description: "The mosaic of La Chebba constitutes a homogeneous group with the mosaic of Acholla representing the same divinity and the works discovered in the house of the Dionysian procession of El Jem",
+    year:"2nd century ",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_du_triomphe_de_Neptune_et_les_quatre_Saisons_de_La_Chebba#"
+  },
+  {
+    title: "Mosaic of Ulysses and the Sirens",
+    artist: "From Ancient Rome Culture",
+    description: "Inspired by song XII of the Odyssey , the painting depicts the episode where the central character, Ulysses , resists the song of the sirens 4 .",
+    year: "	3rd century",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_d%27Ulysse_et_les_sir%C3%A8nes#"
+  },
+  {
+    title: "Mosaic of the Circus of Carthage",
+    artist: "From Ancient Rome Culture",
+    description: "The mosaic depicts the circus building and also what happens on the track.",
+    year: "2nd - 3rd century",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_du_cirque_de_Carthage#"
+  },
+  {
+    title: "Mosaic of the Cyclopes forging Jupiter's thunderbolts",
+    artist: "From Ancient Rome Culture",
+    description: "The border of the work consists of a cornice with exposed chevrons, with complex and rich patterns both in terms of the colors of the marbles used and the geometric shapes present.",
+    year: "	3rd century  - 4th century ",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_des_cyclopes_forgeant_les_foudres_de_Jupiter#"
+  },
+  {
+    title: "Mosaic of Virgil",
+    artist: "From Ancient Rome Culture",
+    description: "The Virgil Mosaic is a mosaic found on the site of ancient Hadrumetum and currently preserved at the Bardo National Museum , of which it constitutes one of the centerpieces. It currently constitutes the oldest portrait of the Latin poet Virgil .",
+    year: "Between the 1st century  and  the 3rd century",
+    link: "https://fr.wikipedia.org/wiki/Mosa%C3%AFque_de_Virgile#"
+  },
+  {
+    title: "Tunis Bardo Mosaic 4",
+    artist: "From Ancient Rome Culture",
+    description: "The Bardo Museum houses exquisite Roman mosaics, showcasing the artistry and cultural heritage of ancient Rome Culture",
+    year: "Not mentionned",
+    link: "https://fr.m.wikipedia.org/wiki/Fichier:Tunis_Bardo_Mosaique_4.jpg"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From Ancient Rome Culture",
+    description: "This mosaic was discovered at the site of Althiburos in El Mdeina.",
+    year: "Not Mentionned",
+    link: "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+  {
+    title: "War dance, mosaic fragment",
+    artist: "From Ancient Rome Culture",
+    description: "The Bardo Museum houses exquisite Roman mosaics, showcasing the artistry and cultural heritage of ancient Rome Culture",
+    year: "Not Mentionned",
+    link: "https://www.voyagevirtuel.info/tunisie/pages/bardo-museum-127.php"
+  },
+  {
+    title: "Bardo National Museum, hunting scene, mosaic,",
+    artist: "From Ancient Rome Culture",
+    description: "The Bardo Museum houses exquisite Roman mosaics, showcasing the artistry and cultural heritage of ancient Rome Culture",
+    year: "Not Mentionned",
+    link: "https://www.voyagevirtuel.info/tunisie/pages/bardo-museum-mosaique-ederatus-mustela.php"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From Ancient Rome Culture",
+    description: "Young boy picking fruit, mosaic from the 2nd century AD, found in Chebba",
+    year: "Not Mentionned",
+    link: "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From Ancient Rome Culture",
+    description: "Unloading iron ore from a ship. Mosaic (3rd century AD) found in Sousse (eastern Tunisia)",
+    year: "Not Mentionned",
+    link: "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From Ancient Rome Culture",
+    description: "Venus crowned by two female centaurs, mosaic dating from the 4th century AD. Note the face of Venus where we can see an influence reminiscent of Byzantine art.",
+    year: "Not Mentionned",
+    link:  "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+  {
+    title: "Roman mosaic, Bardo Museum",
+    artist: "From Ancient Rome Cultur",
+    description: "This mosaic was discovered on the site of Utica, around thirty km northwest of Carthage.",
+    year: "Not Mentionned",
+    link: "https://www.francetvinfo.fr/culture/patrimoine/le-musee-national-du-bardo-a-tunis_3367225.html"
+  },
+
+];
+
+export default paintingInfo;

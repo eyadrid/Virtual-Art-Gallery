@@ -18,7 +18,7 @@ export const paintingData = [
     height: 3,
     position: { x: -15 + 10 * i, y: 2, z: 19.5 },
     rotationY: Math.PI,
-    info:paintingInfo[i],
+    info:paintingInfo[i+4],
   })),
   // Left Wall
   ...Array.from({ length: 4 }, (_, i) => ({
@@ -27,7 +27,7 @@ export const paintingData = [
     height: 3,
     position: { x: -19.5, y: 2, z: -15 + 10 * i },
     rotationY: Math.PI / 2,
-    info:paintingInfo[i],
+    info:paintingInfo[i+8],
   })),
   // Right Wall
   ...Array.from({ length: 4 }, (_, i) => ({
@@ -36,6 +36,6 @@ export const paintingData = [
     height: 3,
     position: { x: 19.5, y: 2, z: -15 + 10 * i },
     rotationY: -Math.PI / 2,
-    info: paintingInfo[i],
+    info: paintingInfo[i+12],
   })),
 ];
