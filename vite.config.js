@@ -7,4 +7,8 @@ export default defineConfig({
       input: '/main.js',
     },
   },
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 1b120d665d7d9ef698f4c65b91694a41cd162727
