@@ -1,6 +1,7 @@
 # Virtual Art Gallery of Bardo Museum - Tunisia
 
 This project presents a Virtual Art Gallery featuring the Bardo Museum's rich collection, offering a digital experience of its iconic paintings and artifacts to a global audience. Our purpose is to preserve and promote Tunisian art and culture, providing worldwide access to the Bardo Museum’s treasures as an educational tool.
+You can visit our virtual art gallery through our website : https://bardo-virtual-gallery.vercel.app/
 
 ## Features:
 - High-Resolution Artwork Display
@@ -29,5 +30,5 @@ Then run :
 npx vite
 ```
 
-You can visit our project via the link : https://bardo-virtual-gallery.vercel.app/
+
  
