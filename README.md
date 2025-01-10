@@ -28,4 +28,6 @@ Then run :
 ```bash
 npx vite
 ```
+
+You can visit our project via the link : (https://bardo-virtual-gallery.vercel.app/)
  
